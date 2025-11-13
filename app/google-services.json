@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345388725437",
+    "project_id": "shelftalk-78c90",
+    "storage_bucket": "shelftalk-78c90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345388725437:android:b641563971a05bdbd0b3d4",
+        "android_client_info": {
+          "package_name": "com.example.shelftalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHP4dCIJUdx9mIdsGyAgWLEcBR-eHjJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
